@@ -77,7 +77,7 @@ Sketch
 
 ========== SERVICES ==========
 .section__subtitle
-My <span>Services
+My <span>Services</span>
 
 .section__title
 What I Do
@@ -160,7 +160,7 @@ EmailJS team
 
 ========== FOOTER ==========
 .footer__title
-Patrick <span>Moz</span>
+Soumitra <span>Datta</span>
 
 .footer__education
 Front-end Developer  
