@@ -345,6 +345,10 @@ svg {
 	box-shadow: 0 8px 24px hsla(var(--hue), 100%, 40%, 0.25);
 }
 
+.cv__button {
+	background-color: var(--body-color);
+}
+
 /*=============== ABOUT ===============*/
 .about__container {
 	row-gap: 2.5rem;
