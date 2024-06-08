@@ -1,4 +1,4 @@
-# Responsive Portfolio Website
+# Responsive Portfolio Website & CV
 
 ### Responsive Portfolio Website
 
@@ -8,5 +8,15 @@
 - Contains a beautiful dark theme.
 - The color of the project can be customized.
 - Sending emails in the contact section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+### Responsive Resume CV
+
+- Responsive Resume CV Website Using HTML CSS And JavaScript
+- Contains a mobile navigation with icons.
+- Smooth scrolling in each section in mobile version.
+- Includes a light and dark theme.
+- Export resume website to PDF.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
